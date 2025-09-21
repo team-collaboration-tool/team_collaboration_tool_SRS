@@ -18,7 +18,7 @@
 
 ## 1. Requirements description
 
-| ID | 업무명(기능) | 요약 | 세부요구사항 설명 | 입력변수 | 정상 입력값 partitioning | 에외 입력값 partitioning | 추적성 | 우선순위 | 테스트 결과 |
+| ID | 업무명 (기능) (Function name) | 요약 (Summary of the function) | 세부요구사항 설명 (predicative summary of the function) | 입력변수 (Input variables to test the function) | 정상 입력값 partitioning (Normal inputs partitioning) | 에외 입력값 partitioning (Exceptional inputs partitioning) | 추적성 (Traceability) | 우선순위 (Priority) | 테스트 결과 (Test result) |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | 회원가입 | | | | | | | | |
 | 1.1 | | 웹사이트의 서비스를 사용하기 위한 절차이며, 모든 사용자는 사용에 앞서 회원가입을 해야 한다. | | | | | | | |
